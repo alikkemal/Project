@@ -1,4 +1,4 @@
-# n11 Docker'ı localinizde kurduktan sonra aşağıdaki adımları uygulayın:
+# n11 Docker'ı localinizde kurduktan sonra terminal üzerinde aşağıdaki adımları uygulayın:
  # Pull docker-selenium
   docker pull elgalu/selenium
 
@@ -11,3 +11,4 @@
     --privileged dosel/zalenium start
     
     
+#src/test/java altında oluşturmuş olduğumuz Root Direktory içerisinde kullanılacak driver remote olarak url ile birlikte tanımlanır. Koşulan testler Zalenium Dashboard (Örn:http://192.19.21.9:4444/dashboard/#) üzerinden takip edilir.
