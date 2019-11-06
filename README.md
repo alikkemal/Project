@@ -1,4 +1,5 @@
  Docker'ı localinizde kurduktan sonra terminal üzerinde aşağıdaki adımları uygulayın:
+ 
   *Pull docker-selenium
   docker pull elgalu/selenium
 
