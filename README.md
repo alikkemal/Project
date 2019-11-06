@@ -12,4 +12,4 @@
     --privileged dosel/zalenium start
     
     
-*src/test/java altında oluşturmuş olduğumuz Root Direktory içerisinde kullanılacak driver remote olarak url ile birlikte tanımlanır. Koşulan testler Zalenium Dashboard üzerinden takip edilir.
+*src/test/java altında oluşturmuş olduğumuz Root Direktory içerisinde kullanılacak driver, remote url ile birlikte tanımlanır. Koşulan testler Zalenium Dashboard üzerinden takip edilir.
